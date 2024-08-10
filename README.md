@@ -1,0 +1,1 @@
+# gtkada3_starter_minimal
